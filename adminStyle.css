@@ -1,0 +1,68 @@
+
+.navigasi{
+    background-color: #1E2A5E;
+    height: 680px;
+}
+
+.garis{
+    height: 1px;
+    width: 60%;
+    margin-top: 1px;
+    background-color: #d4d4d4;
+}
+
+.button-cus{
+    padding: 10px;
+}
+
+.mychat{
+    gap: 10px;
+    justify-content: right;
+}
+
+.mychat .isichat{
+    border-radius: 10px 10px 0 10px;
+}
+
+.yourchat{
+    gap: 10px;
+}
+
+.yourchat .isichat{
+    border-radius: 10px 10px 10px 0;
+    background-color: gray;
+    color: white;
+}
+
+.userchat h5{
+    margin: auto;
+}
+
+.sending{
+    background-color: #1E2A5E;
+    border-radius: 10px;
+    margin: 0 5px;
+}
+
+.navigasi .user-login{
+    background-color: #4e5c9e;
+    border-radius: 0 20px 100px 0;
+}
+
+.menus .menu:hover{
+    transform: translate(5px, 0);
+    transition: 0.5s;
+}
+
+.menus .menu{
+    transition: 0.5s;
+}
+
+.list-aduan:hover{
+    transform: translate(5px, 0);
+    transition: 0.5s;
+}
+
+.list-aduan{
+    transition: 0.5s;
+}

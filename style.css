@@ -1,0 +1,24 @@
+body{
+    background-color: #1E2A5E;
+}
+
+.button-cus{
+    padding: 10px;
+}
+
+.costum{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.garis{
+    height: 1px;
+    width: 100%;
+    background-color: darkgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
